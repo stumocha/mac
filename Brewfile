@@ -5,6 +5,8 @@ tap 'caskroom/cask'
 brew 'mas'
 
 # Web
+cask 'tunnelbear'
+cask 'speedify'
 cask 'google-chrome'
 cask 'firefox'
 
