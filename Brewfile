@@ -42,3 +42,6 @@ mas 'Affinity Designer', id: 824171161
 mas 'Affinity Photo', id: 824183456
 cask 'imageoptim'
 cask 'imagealpha'
+
+# Other
+cask 'endurance'
