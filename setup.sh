@@ -8,3 +8,6 @@ cd ~/Code/joeldrapper/mac
 brew bundle
 brew cleanup
 brew cask cleanup
+
+# Install Atom packages
+sh ./atom.sh
