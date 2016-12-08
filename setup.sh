@@ -6,6 +6,8 @@ cd ~/Code/joeldrapper/mac
 
 # Bundle Brewfile
 brew bundle
+
+# Clean up brew caches
 brew cleanup
 brew cask cleanup
 
