@@ -11,5 +11,8 @@ brew bundle
 brew cleanup
 brew cask cleanup
 
+# Install OhMyZSH
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
 # Install Atom packages
 sh ./atom.sh
