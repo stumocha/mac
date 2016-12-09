@@ -21,6 +21,7 @@ mas 'Spark', id: 1176895641
 mas 'Telegram', id: 747648890
 mas 'Tweetbot', id: 557168941
 cask 'basecamp'
+mas 'Slack', id: 803453959
 
 # Video
 mas 'ScreenFlow', id: 1107828211
