@@ -17,7 +17,6 @@ mas 'Noizio', id: 928871589
 cask '1password'
 
 # Communication
-mas 'Spark', id: 1176895641
 mas 'Telegram', id: 747648890
 mas 'Tweetbot', id: 557168941
 cask 'basecamp'
