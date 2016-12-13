@@ -12,7 +12,7 @@ cask 'firefox'
 
 # Productivity
 mas 'Evernote', id: 406056744
-mas 'OmniFocus', id: 867299399
+mas 'Todoist', id: 585829637
 mas 'Noizio', id: 928871589
 cask '1password'
 
