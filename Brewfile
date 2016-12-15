@@ -25,6 +25,7 @@ mas 'Slack', id: 803453959
 # Video
 mas 'ScreenFlow', id: 1107828211
 mas 'Permute', id: 731738567
+cask "licecap"
 
 # Development
 mas 'Xcode', id: 497799835
