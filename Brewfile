@@ -39,6 +39,7 @@ mas 'Soulver', id: 413965349
 
 # Design
 mas 'Affinity Designer', id: 824171161
+cask 'sketch'
 
 # Photo Editing
 mas 'Affinity Photo', id: 824183456
