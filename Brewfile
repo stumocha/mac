@@ -35,9 +35,6 @@ cask 'iterm2'
 # Reading
 mas 'Kindle', id: 405399194
 
-# Other
-mas 'Soulver', id: 413965349
-
 # Design
 mas 'Affinity Designer', id: 824171161
 cask 'sketch'
@@ -48,4 +45,5 @@ cask 'imageoptim'
 cask 'imagealpha'
 
 # Other
+mas 'Soulver', id: 413965349
 cask 'endurance'
