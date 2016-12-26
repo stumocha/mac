@@ -29,7 +29,6 @@ cask 'licecap'
 cask 'handbrake'
 
 # Development
-mas 'Xcode', id: 497799835
 cask 'atom'
 
 # Reading
