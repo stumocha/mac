@@ -30,6 +30,7 @@ cask 'handbrake'
 
 # Development
 cask 'atom'
+cask 'iterm2'
 
 # Reading
 mas 'Kindle', id: 405399194
