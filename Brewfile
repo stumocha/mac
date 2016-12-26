@@ -35,9 +35,6 @@ cask 'atom'
 # Reading
 mas "Kindle", id: 405399194
 
-# Writing
-mas 'iA Writer', id: 775737590
-
 # Other
 mas 'Soulver', id: 413965349
 
