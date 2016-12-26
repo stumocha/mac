@@ -29,8 +29,9 @@ cask 'licecap'
 cask 'handbrake'
 
 # Development
-cask 'atom'
 cask 'iterm2'
+cask 'atom'
+cask 'github-desktop'
 
 # Reading
 mas 'Kindle', id: 405399194
