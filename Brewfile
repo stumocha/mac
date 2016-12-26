@@ -26,10 +26,14 @@ cask 'basecamp'
 mas 'ScreenFlow', id: 1107828211
 mas 'Permute', id: 731738567
 cask "licecap"
+cask "handbrake"
 
 # Development
 mas 'Xcode', id: 497799835
 cask 'atom'
+
+# Reading
+mas "Kindle", id: 405399194
 
 # Writing
 mas 'iA Writer', id: 775737590
