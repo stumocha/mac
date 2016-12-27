@@ -16,3 +16,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 # Install Atom packages
 sh ./atom.sh
+
+# Install Pow
+curl get.pow.cx | sh
