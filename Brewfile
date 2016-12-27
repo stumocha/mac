@@ -1,8 +1,14 @@
 # Cask to install Mac apps
 tap 'caskroom/cask'
 
+# Cask Fonts to install Fonts
+tap 'caskroom/fonts'
+
 # To install Mac apps from the App Store
 brew 'mas'
+
+# Fonts
+cask 'font-hasklig'
 
 # Web
 cask 'tunnelbear'
