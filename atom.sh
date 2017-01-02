@@ -4,3 +4,4 @@ apm install erb-snippets
 apm install file-icons
 apm install merge-conflicts
 apm install pigments
+apm install auto-update-packages
