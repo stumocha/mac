@@ -1,6 +1,11 @@
 # Laptop
 curl https://raw.githubusercontent.com/thoughtbot/laptop/master/mac | sh 2>&1 | tee ~/laptop.log
 
+# Remove Ruby
+# The one thing I don't like about Laptop is it's upgrading the system ruby.
+# It makes more sense to just use rbenv.
+brew uninstall ruby
+
 git clone https://github.com/joeldrapper/mac ~/Code/joeldrapper/mac
 cd ~/Code/joeldrapper/mac
 
