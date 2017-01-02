@@ -25,7 +25,6 @@ cask '1password'
 # Communication
 mas 'Telegram', id: 747648890
 mas 'Slack', id: 803453959
-cask 'basecamp'
 
 # Video
 mas 'ScreenFlow', id: 1107828211
