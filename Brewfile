@@ -54,6 +54,7 @@ cask 'imagealpha'
 # Other
 mas 'Soulver', id: 413965349
 cask 'endurance'
+cask 'dropbox'
 
 # XCode - Last because it's huge
 mas 'XCode', id: 497799835
