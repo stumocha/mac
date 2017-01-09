@@ -35,9 +35,13 @@ cask 'handbrake'
 cask 'iterm2'
 cask 'atom'
 cask 'github-desktop'
+cask 'postman'
 
 # Reading
 mas 'Kindle', id: 405399194
+
+# Writing
+mas 'iA Writer', id: 775737590
 
 # Design
 mas 'Affinity Designer', id: 824171161
