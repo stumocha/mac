@@ -6,8 +6,8 @@ curl https://raw.githubusercontent.com/thoughtbot/laptop/master/mac | sh 2>&1 | 
 # It makes more sense to just use rbenv.
 brew uninstall ruby
 
-git clone https://github.com/joeldrapper/mac ~/Code/joeldrapper/mac
-cd ~/Code/joeldrapper/mac
+git clone https://github.com/stumocha/mac ~/Code/stumocha/mac
+cd ~/Code/stumocha/mac
 
 # Bundle Brewfile
 brew bundle
@@ -22,5 +22,3 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 # Install Atom packages
 sh ./atom.sh
 
-# Install Pow
-curl get.pow.cx | sh
